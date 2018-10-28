@@ -1,7 +1,7 @@
 {
   "main.css": "/robotfinder/static/css/main.fe73f758.chunk.css",
-  "main.js": "/robotfinder/static/js/main.492465e8.chunk.js",
-  "main.js.map": "/robotfinder/static/js/main.492465e8.chunk.js.map",
+  "main.js": "/robotfinder/static/js/main.f97c84b1.chunk.js",
+  "main.js.map": "/robotfinder/static/js/main.f97c84b1.chunk.js.map",
   "static/js/1.a700ff87.chunk.js": "/robotfinder/static/js/1.a700ff87.chunk.js",
   "static/js/1.a700ff87.chunk.js.map": "/robotfinder/static/js/1.a700ff87.chunk.js.map",
   "runtime~main.js": "/robotfinder/static/js/runtime~main.3b72f803.js",
@@ -9,6 +9,6 @@
   "static/media/logo.svg": "/robotfinder/static/media/logo.5d5d9eef.svg",
   "static/css/main.fe73f758.chunk.css.map": "/robotfinder/static/css/main.fe73f758.chunk.css.map",
   "index.html": "/robotfinder/index.html",
-  "precache-manifest.10c935f85260f59c65c088118e83f9f1.js": "/robotfinder/precache-manifest.10c935f85260f59c65c088118e83f9f1.js",
+  "precache-manifest.01eeb7f35f6ca65356bc7f5e790758f2.js": "/robotfinder/precache-manifest.01eeb7f35f6ca65356bc7f5e790758f2.js",
   "service-worker.js": "/robotfinder/service-worker.js"
 }
