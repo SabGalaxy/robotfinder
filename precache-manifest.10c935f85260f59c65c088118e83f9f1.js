@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/robotfinder/static/css/main.fe73f758.chunk.css"
   },
   {
-    "revision": "89b03bc450276cb63bdb95795ae6aa25",
+    "revision": "a3c9ab2c4b928f3c2cf1b4c3ecdb7a07",
     "url": "/robotfinder/index.html"
   }
 ];

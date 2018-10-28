@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/robotfinder/precache-manifest.72680f2790530ae75c7d5aeed7c2ce9e.js"
+  "/robotfinder/precache-manifest.10c935f85260f59c65c088118e83f9f1.js"
 );
 
 workbox.clientsClaim();
